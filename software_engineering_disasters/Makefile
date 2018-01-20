@@ -8,6 +8,7 @@ pdf:
 	--pdf-engine=xelatex \
 	--variable urlcolor=cyan \
 	--variable papersize=a4paper \
+	--variable classoption=twocolumn \
 	--filter pandoc-citeproc
 
 .PHONY: pdf
