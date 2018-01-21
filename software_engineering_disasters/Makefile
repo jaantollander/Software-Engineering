@@ -9,6 +9,7 @@ pdf:
 	--variable urlcolor=cyan \
 	--variable papersize=a4paper \
 	--variable classoption=twocolumn \
-	--filter pandoc-citeproc
+	--filter pandoc-citeproc \
+	--csl=https://raw.githubusercontent.com/citation-style-language/styles/master/harvard-bournemouth-university.csl
 
 .PHONY: pdf
