@@ -1,8 +1,6 @@
 ---
 title: "Software Engineering Disasters"
 date: "2018-01-21"
-author: "Jaan Tollander de Balsch"
-bibliography: bibliography.bib
 header-includes: \usepackage{unicode-math}
 ---
 <!-- 1000 +/- 250 words -->

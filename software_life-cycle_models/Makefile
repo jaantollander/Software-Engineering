@@ -1,5 +1,5 @@
 BUILDDIR=build
-FILENAME=software_engineering_disasters
+FILENAME=software_life-cycle_models
 
 pdf:
 	mkdir -p $(BUILDDIR)
