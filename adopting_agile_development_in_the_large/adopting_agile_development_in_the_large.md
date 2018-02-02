@@ -26,9 +26,7 @@ In order for large organization to adapt agile methods they have to maintain the
 
 
 ## Agile Development at Ericsson
-Lassenius and Engblom discusses about transformation from waterfall model to using scrum at Ericsson [@httpslas12:online].
-
-Around 400 people and 40 teams in 3 different locations developing a mobile core network node with size of 50 million lines of code. The development has been on going since 1990s.
+Lassenius and Engblom discusses about transformation from waterfall model to using scrum at Ericsson developing a mobile core network node [@httpslas12:online]. To indicate the scale of the transformation, the development of the network node had been on going since 1990s, 50 million lines of code had been written and 400 people in 40 teams and 3 different locations were developing it.
 
 Engblom described that the main problems in waterfall model were
 
@@ -37,9 +35,7 @@ Engblom described that the main problems in waterfall model were
 - Quality of the software would degrade since size of the tests kept growing.
 - Motivation inside teams was suffering since there was no room for developers to grow and they had limited view of the whole picture.
 
-The reasons for choosing agile described were to avoid oversized specification and the use of direct communication over documents.
-
-Engblom then describes how they scaled the agile practices inside Ericsson.
+The reasons for choosing agile described were to avoid oversized specification and the use of direct communication over documents. Engblom also describes how they scaled the agile practices inside Ericsson
 
 - Initial testing with one team revealed problems with time boxing, also test and build times were found to be too long. This was a problem for implementing continuous integration.
 - Cross-functional teams were implemented and component guardians who were available for teams to consult for specic knowledge about specic parts of the system.
