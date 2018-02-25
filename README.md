@@ -1,4 +1,4 @@
 # Software Engineering
-Essay for software engineering course at Aalto university.
+Essays for software engineering course at Aalto University.
 
 [Harvard Referencing](https://www.gcu.ac.uk/library/subjecthelp/referencing/harvardreferencing/)
