@@ -1,0 +1,20 @@
+Lecture video [@10Softwa69]
+
+- developer usually under estimate their time usage for specific tasks
+- planning is nesessary for larger projects
+- if planning is done very far ahead it might need to be revised and lead to wasted time and resources
+- calendar time is different from effort
+- effective working time, monitor the amount of work done
+- separate the estimate calendar time and effort in hours for the project
+- effort estimation levels do not take productivity into account
+- traditional software development has buffer in the schedule, in agile there are no buffers since the scope is flexible
+- 35:00 software estimation techniques
+- expert based estimation better than algorithmic in most cases
+- 43:00 algorithmic cost model
+- algorithmic models can be deceiving as they give the user precise value based on the input parameters but usually there are many input parameters which are quessed thus the output value can be very imprecise
+- 45:00 Estimate uncertainty
+- early estimates are unrealiable
+- more we know better we can estimate
+- 46:00 COCOMO
+- 48:00 Softare pricing
+- effort estimation helps to discover the cost to produce a software system
